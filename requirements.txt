@@ -1,0 +1,9 @@
+streamlit>=1.40
+sympy>=1.13
+numpy>=2.0
+scipy>=1.14
+pandas>=2.2
+matplotlib>=3.9
+pillow>=10.0
+reportlab>=4.0
+pytesseract>=0.3.13
